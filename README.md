@@ -1,0 +1,2 @@
+# Project8automatingwebserver
+Automating load balancer configuration with shellscripting
